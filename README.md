@@ -1,2 +1,2 @@
 # MT-EccentricMass
-Rohdaten und ausgewertete daten der master arbeit "Vibration in cantilevered beams with eccentric masses under stochastic loading"
+Raw data and analyzed data of the master thesis "Vibration in cantilevered beams with excenteric mass under stochastic loading
